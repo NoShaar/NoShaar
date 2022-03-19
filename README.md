@@ -9,4 +9,4 @@ I Love Technology, Problem Solving, New Challenges and Automations(RPA)! ❤️
 - I'm looking for a new job opportunity 💻
 
 ### My Technologies:
-[![Tecnology](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjanoobplay&theme=gruvbox)]
+![Tecnology](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjanoobplay&theme=gruvbox)
